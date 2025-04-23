@@ -1,15 +1,17 @@
-🐚 Mini OS Shell
+# 🐚 Mini OS Shell
 
-📘 Project Overview
+## 📘 Project Overview
 
-Mini OS Shell is a simple command-line shell written in Python that mimics the behavior of a basic Unix shell. It enables users to interact with their system through commands, manage processes, and navigate directories—just like in a real shell environment.
+**Mini OS Shell** is a simple command-line shell written in Python that mimics the behavior of a basic Unix shell. It enables users to interact with their system through commands, manage processes, and navigate directories—just like in a real shell environment.
 
 This project serves as both a practical tool and an educational resource for exploring:
 - Process management
 - Inter-process communication
 - Basic shell command execution and error handling
 
-✨ Features
+---
+
+## ✨ Features
 
 - 🔹 Custom shell prompt
 - 📁 `cd` command support to change directories
@@ -17,21 +19,24 @@ This project serves as both a practical tool and an educational resource for exp
 - ⚙️ Manage processes using Python's `subprocess` module
 - ❌ Graceful error handling for invalid inputs and system errors
 
+---
 
-🔧 Technologies Used
+## 🔧 Technologies Used
 
-- Python 3.
+- **Python 3.x**
 - `os` module – For file and directory manipulation
 - `subprocess` module – For running system commands
 - Python's built-in exception handling – To catch and manage errors
 
-🚀 Getting Started
+---
 
-✅ Prerequisites
+## 🚀 Getting Started
+
+### ✅ Prerequisites
 
 Ensure you have **Python 3.x** installed. You can download it here: [Download Python](https://www.python.org/downloads/)
 
-🛠️ Installation
+### 🛠️ Installation
 
 1. Clone the repository:
 
